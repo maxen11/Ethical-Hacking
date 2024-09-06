@@ -1,0 +1,3 @@
+This was the tutorial flag to familiarise yourself with the system and with ethical hacking. Nothing noteworthy was done here.
+
+flag{155d784ffb52b80f3bdb5ead8023d6f62d326c3aa45898}
